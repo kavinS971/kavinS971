@@ -145,25 +145,3 @@
     </a>
 </p>
 
-## ✨GitHub Stats  : 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=tokyonight" />
-</div>
-
-<h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harikanani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harikanani" /></a></p><br><br><br>
-
-<h3> ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="harikanani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="harikanani" height="195px"/></p>
-<br><br><br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p> -->
-<br/>  
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
-
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=harikanani&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
