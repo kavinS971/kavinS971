@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
 
-@@ -37,46 +31,8 @@
+
 
 - ⚡ Fun fact **I love to code**
 
