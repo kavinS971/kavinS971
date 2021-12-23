@@ -5,7 +5,7 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Kavinsaravanan6" /></a>&nbsp
+<a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter" alt="Kavinsaravanan6" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://github.com/kavinS971" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="" /></a>&nbsp
    <a href="mailto:kavinsaravanan97001@gmail.com">
