@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-## 💡 Connect with me :
+
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -120,7 +120,9 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
     </a>
 </p>
-           
+  
+            
+## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/follow/KavinSaravanan6?label=KavinSaravanan6&logo=Twitter&style=for-the-badge" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-kavinsaravanan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
