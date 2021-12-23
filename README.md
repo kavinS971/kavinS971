@@ -1,12 +1,12 @@
-<h1 align="center"> I'm Harikrushn Kanani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> I'm Kavin Saravanan<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/url?logo=kavinsaravanan6&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter" alt="Kavinsaravanan6" /></a>&nbsp
-<a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/follow/KavinSaravanan6?style=social" alt="Kavinsaravanan6" /></a>&nbsp
+<a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-kavinsaravanan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://github.com/kavinS971" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="" /></a>&nbsp
    <a href="mailto:kavinsaravanan97001@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kavinsaravanan97001@gmail.com" />
