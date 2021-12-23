@@ -7,10 +7,11 @@
 <p align="left"> 
 <a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/follow/KavinSaravanan6?style=social" alt="Kavinsaravanan6" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-kavinsaravanan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://github.com/kavinS971" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="" /></a>&nbsp
+&nbsp
    <a href="mailto:kavinsaravanan97001@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kavinsaravanan97001@gmail.com" />
-  </a>
+  </a>&nbsp
+  <a href="https://github.com/kavinS971" target="_blank"><img src="https://img.shields.io/website?label=kavin saravanan | Portfolio&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="" /></a>
 </p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
