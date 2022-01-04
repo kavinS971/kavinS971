@@ -50,7 +50,7 @@
 </p>
   
             
-## 💡 Connect with me :
+## 💡 Let's get in Touch :
 <p align="left"> 
 <a href="https://twitter.com/KavinSaravanan6" target="blank"><img src="https://img.shields.io/twitter/follow/KavinSaravanan6?label=KavinSaravanan6&logo=Twitter&style=for-the-badge" /></a>&nbsp
 <a href="https://www.linkedin.com/in/kavinsaravanan/"><img src="https://img.shields.io/badge/-kavinsaravanan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
