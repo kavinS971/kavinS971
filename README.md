@@ -6,7 +6,7 @@
 
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://github.com/kavinS971/kavinS971/blob/main/kavin.gif" />
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
@@ -14,13 +14,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kavinS971](https://github.com/kavinS971)
-
 - 💬 Ask me about **JavaScript,ReactJS,Node.Js**
-
-- 📫 How to reach me **kavinsaravanan97001@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kavinsaravanan/](https://www.linkedin.com/in/kavinsaravanan/)
 
 - ⚡ Fun fact **I love to code**
 
